@@ -1,0 +1,29 @@
+i) Which function declaration is correct?
+c. int multiply(int a, int b) => a * b; 
+
+
+ii) The await keyword works only
+2.     Async functions 
+
+
+iii) Select an ordered collection in dart
+3. 	List 
+
+
+iv) Select the correct output of the following dart expression.
+        	‘${“word”.toUpperCase()}’
+1.     The output is –‘WORD’ 
+
+
+v) If a variable name is declared in Dart as: var name = “Me”; what does not uses string interpolation correctly?
+3.    print(‘Your name is ‘{name}’); 
+
+
+vi) Select the correct statement if the following is provided: var nums = [1,2,3,4];
+2.	nums.forEach(print); 
+
+
+vii) Advantages of using generics are:(There can be multiple correct answer for this question)
+Ensures type safety
+Reduce code duplication
+Can work in a single interface that takes a type parameter.
