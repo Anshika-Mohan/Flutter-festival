@@ -13,4 +13,4 @@ Lists movies in a horizontally scrollable manner and their details such as:
 * Cast
 ***
 #### Screenshot
-![Image text](/path/to/the/screenshot.png)
+![Screenshot](https://github.com/Anshika-Mohan/Flutter-festival/blob/main/Movie_App_Screenshot.PNG)
